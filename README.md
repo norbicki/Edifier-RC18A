@@ -1,4 +1,4 @@
-[![Test](https://img.shields.io/github/release/norbicki/Edifier-RC18A.svg?logo=github)](https://github.com/norbicki/Edifier-RC18A/releases/latest)
+[![Latest release](https://img.shields.io/github/release/norbicki/Edifier-RC18A.svg?logo=github)](https://github.com/norbicki/Edifier-RC18A/releases/latest)
 # Edifier-RC18A
 Remote control for Edifier R1855DB speakers
 
