@@ -1,4 +1,5 @@
 [![Latest release](https://img.shields.io/github/release/norbicki/Edifier-RC18A.svg?logo=github)](https://github.com/norbicki/Edifier-RC18A/releases/latest)
+[![F-Droid](https://img.shields.io/f-droid/v/ir.remote.edifier.rc10e)](https://f-droid.org/packages/ir.remote.edifier.rc18a/)
 # Edifier-RC18A
 Remote control for Edifier R1855DB speakers
 
@@ -7,7 +8,9 @@ Remote control for Edifier R1855DB speakers
 - phone with infrared emitter
 
 #### Installation:
-Download the .apk file from the [folder](https://github.com/norbicki/Edifier-RC18A/releases/latest) and install on your device.
+Download the .apk file from the [folder](https://github.com/norbicki/Edifier-RC18A/releases/latest) and install on your device or
+
+[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" height="75">](https://f-droid.org/packages/ir.remote.edifier.rc18a/)
 
 ***
 
